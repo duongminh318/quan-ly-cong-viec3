@@ -3,3 +3,4 @@
 # tính năng của phần mềm
 ## thêm công việc mới
 
+# bổ sung hướng dẫn cài đặt
